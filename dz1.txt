@@ -1,3 +1,4 @@
+
 1)Посмотреть где я.
 
 theev@LAPTOP-B3UCB9I0 MINGW64 ~/Desktop/dz1 (master)
@@ -127,4 +128,4 @@ cd f_1
 touch f1.txt f2.txt f3.txt f4.json f5.json
 mkdir A1 A2 A3
 ls
-mv f1.txt f2.txt ./A1
+
